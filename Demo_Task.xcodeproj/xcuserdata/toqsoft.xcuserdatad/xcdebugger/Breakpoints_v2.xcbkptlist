@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C0D4118-FDED-483A-8DCE-23E4AD63BB36"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFF46A34-E404-4120-A5DA-3E0746E51BBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7987F500-E902-4808-A77B-6D6BCE65CFCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FB39714-E260-402C-B93E-810CE1DE1C6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E65414-4C49-4D29-8C6C-A98B7F2D2856"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70">
+            <Locations>
+               <Location
+                  uuid = "17E65414-4C49-4D29-8C6C-A98B7F2D2856 - 52dc596414a7be48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Desktop/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "2348">
+               </Location>
+               <Location
+                  uuid = "17E65414-4C49-4D29-8C6C-A98B7F2D2856 - 9fd79cb48b2e640b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Demo_Task.Rating) -&gt; Swift.Bool in Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Desktop/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4402577D-9FA0-4614-9926-30C29D8F0DE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71">
+            <Locations>
+               <Location
+                  uuid = "4402577D-9FA0-4614-9926-30C29D8F0DE3 - 52dc596414a7bfa9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Desktop/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "3252">
+               </Location>
+               <Location
+                  uuid = "4402577D-9FA0-4614-9926-30C29D8F0DE3 - 819b44f22bd2dd15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Demo_Task.Rating) -&gt; Swift.Bool in Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Desktop/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49172713-DEBB-4C33-A689-65215976D38A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72">
+            <Locations>
+               <Location
+                  uuid = "49172713-DEBB-4C33-A689-65215976D38A - 52dc596414a7bf8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Desktop/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "4156">
+               </Location>
+               <Location
+                  uuid = "49172713-DEBB-4C33-A689-65215976D38A - 8ba82c304ac5b537"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Demo_Task.Rating) -&gt; Swift.Bool in Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Desktop/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12EE2094-A230-4E82-90E4-B99576B82496"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "configureView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12EE2094-A230-4E82-90E4-B99576B82496 - d5f7583217551afa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+               <Location
+                  uuid = "12EE2094-A230-4E82-90E4-B99576B82496 - d5f7583217551afa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+               <Location
+                  uuid = "12EE2094-A230-4E82-90E4-B99576B82496 - d5f7583217551840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2588">
+               </Location>
+               <Location
+                  uuid = "12EE2094-A230-4E82-90E4-B99576B82496 - d5f7583217551840"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2716">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E276BAD3-004B-48B2-BC0C-EFA22A74481B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Demo_Task/MovieDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "configureView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E276BAD3-004B-48B2-BC0C-EFA22A74481B - d5f7583217551a99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "E276BAD3-004B-48B2-BC0C-EFA22A74481B - d5f7583217551a99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+               <Location
+                  uuid = "E276BAD3-004B-48B2-BC0C-EFA22A74481B - 18fc9de288dcc0da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Demo_Task.Rating) -&gt; Swift.Bool in Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E276BAD3-004B-48B2-BC0C-EFA22A74481B - d5f7583217551867"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+               <Location
+                  uuid = "E276BAD3-004B-48B2-BC0C-EFA22A74481B - 18fc9de288dcc224"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Demo_Task.Rating) -&gt; Swift.Bool in Demo_Task.MovieDetailsViewController.configureView() -&gt; ()"
+                  moduleName = "Demo_Task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toqsoft/Downloads/Demo_Task/Demo_Task/MovieDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
